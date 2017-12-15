@@ -1,0 +1,115 @@
+html, body {
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+.titulo-h5{
+    margin-left: 50px;
+}
+.footer-azul{
+    background-color: #6eb8ee;
+       
+}
+
+.footer-azul-copy{
+    
+        background-color: #4588dc;
+}
+
+.presentacion{
+    height: 434px;
+}
+.contenedor-from-regitrar-usr{
+    width: 700px;
+    margin: auto;
+}
+/*html { overflow:hidden; }*/
+
+.contenedor{
+    width: 1000px;
+    margin: auto;
+    height: 460px;
+}
+.contenedor-entrar{
+    width: 500px;
+    margin: auto;
+    height: 460px;
+}
+nav{
+    background-color: #5cb85c;
+}
+#registrate{
+    margin: auto;
+    display: table;
+}
+
+.perfilHead{
+    width: 200px;
+    margin: auto;
+    height: 200px;
+    background-color: red;
+}
+
+.didi{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.contenedorPrincipal{
+    height: 442px;
+    width: 100%;
+}
+
+.carousel{
+    height: 100%;
+}
+
+.headercolor{
+    background-color: #2196F3;
+}
+
+.textblack{
+    color: black;
+}
+
+.brand-logo{
+    padding-left: 150px;
+}
+
+.Error{
+  border-bottom: 1px solid #d66767;
+
+}
+
+.help-block {
+    display: block;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    color: #e26767;
+
+}
+
+.has-success{
+    border-color: #3c763d;
+}
+
+.contenedor-entrar-usuario{
+    width: 70%;
+    margin: auto;
+    height: 460px;
+}
+
+.img-editar{
+  width: 120px;
+}

@@ -1,0 +1,72 @@
+html, body {
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+ }
+
+ main {
+   flex: 1 0 auto;
+ }
+
+.presentacion{
+    height: 434px;
+}
+
+/*html { overflow:hidden; }*/
+
+.contenedor{
+  width: 1000px;
+  margin: auto;
+  height: 460px;
+}
+
+
+#registrate{
+  margin: auto;
+  display: table;
+}
+
+
+.perfilHead{
+  width: 200px;
+  margin: auto;
+  height: 200px;
+  background-color: red;
+}
+
+.didi{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.contenedorPrincipal{
+   height: 442px;
+   width: 100%;
+}
+
+.carousel{
+  height: 100%;
+}
+
+.page-footer  {
+  background-color: ;
+}
+
+.headercolor{
+  background-color: #2196F3;
+}
+
+.textblack{
+  color: black;
+}
+
+.brand-logo{
+  padding-left: 150px;
+}
